@@ -61,4 +61,3 @@ TalkBack меняет логику управления смартфоном: п
 
 На каждом смартфоне с Android на борту можно включить TalkBack и пройти туториал по использованию: всё это делается в настройках, пункт Accessibility. 
 
-![Как пользоваться TalkBack](https://github.com/weazyexe/activity/blob/master/articles/accessibility_views/assets/talkback.mp4)
