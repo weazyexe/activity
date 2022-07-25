@@ -50,7 +50,7 @@ __*Background* и *Surface*__ — цвета поверхностей, на ко
 
 Кажется, что между *Background* и *Surface* нет никаких отличий. Но это не так: в светлой теме они не заметны, но в тёмной хорошо видны
 
-![Surface-цвет в светлой и тёмной теме]([./assets/themes_comparing.png](https://github.com/weazyexe/activity/blob/master/articles/material_you/assets/themes_comparing.png))
+![Surface-цвет в светлой и тёмной теме](https://github.com/weazyexe/activity/blob/master/articles/material_you/assets/themes_comparing.png)
 
 Давайте вспомним базу Material. Как располагаются компоненты в приложении относительно друг друга? В [гайдлайнах Material](https://material.io/design/environment/elevation.html) это описано подробно, но мы пробежимся очень кратко.
 
