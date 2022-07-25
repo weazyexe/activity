@@ -6,3 +6,4 @@ Mostly I use Russian language for that but English translation would be nice and
 ## Articles
 
 * 🇷🇺 [Diving into Material You](https://github.com/weazyexe/activity/blob/master/articles/material_you/material_you.md) – Material updates overview from Android 12
+* 🇷🇺 [Accessibility in Android for dummies](https://github.com/weazyexe/activity/blob/master/articles/accessibility_views/accessibility_views.md) – how to make your app more accessible for disabled people
