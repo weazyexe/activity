@@ -1,6 +1,6 @@
 > You can find this article also at [habr.ru](https://habr.com/ru/company/surfstudio/blog/653115/)
 
-![Обложка](./assets/cover.jpeg)
+![Обложка](https://github.com/weazyexe/activity/blob/master/articles/material_you/assets/cover.jpeg)
 
 # Material You: раскладываем по полочкам обновление дизайн-системы Material
 
