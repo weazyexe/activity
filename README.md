@@ -1,4 +1,6 @@
-# Activity
+# Activity (Deprecated)
+
+This repository is deprecated because I made a blog site for all my posts. Check it out here - [weazyexe/blog](https://github.com/weazyexe/blog)
 
 Here you can find my activity on the Internet about Android development such as articles, meetups, lectures etc.
 Mostly I use Russian language for that but English translation would be nice and I'm trying to do that in a proper way 🙂
